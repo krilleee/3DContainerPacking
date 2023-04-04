@@ -275,7 +275,7 @@ var ItemToPack = function () {
 	this.Length = '';
 	this.Width = '';
 	this.Height = '',
-	this.Quantity = '';
+	this.Quantity = '1000';
 }
 
 var Container = function () {
